@@ -1,4 +1,4 @@
 # Linux-Assignment
 
 Execute the Shell Scripts
-bash Exercise1.sh
+#bash Exercise1.sh
